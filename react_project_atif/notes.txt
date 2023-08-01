@@ -1,0 +1,8 @@
+Console.log()
+Console.warn()
+console.error()
+console.time()
+console.table()
+
+Js is a native browser with v8 engine. Node.js server runtime help to run JS outside browser.
+
